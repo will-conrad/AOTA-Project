@@ -1,7 +1,7 @@
 Predicted duration,1.3,,,
 Predicted error,0.6,,,
 Predicted start,02:16:08,,,
-Notes,starts from frame 1,,,
+Notes,starts from frame 1 and first ~100 frames are 'dropped frames'. incorrect data because the cpu was overloaded,,,
 FrameNum,timeInfo,signal-target,signal-track1
 1,[02:15:36.9756224],25000,1049992
 2,[02:15:37.0780306],27455,1089882
